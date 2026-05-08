@@ -24,8 +24,8 @@ Tauri • Next.js • Obsidian as knowledge base • AI agent-first development.
 
 ## Contact
 
-📧 <email-aqui>
-🌐 <linkedin-aqui>
+📧 [contact@johnnycarreiro.com](mailto:contact@johnnycarreiro.com)
+🌐 [linkedin.com/in/johnny-carreiro](https://www.linkedin.com/in/johnny-carreiro/?locale=en)
 
 ---
 
