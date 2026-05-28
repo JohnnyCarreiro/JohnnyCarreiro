@@ -1,23 +1,9 @@
 <div align="center">
-
-# Johnny Carreiro
-
-**Senior software engineer** — Rust · TypeScript · distributed systems · applied AI
-
-Founder of **[ConsoliDados](https://consolidados.digital)** — applied engineering, no platform lock-in.
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+    <img alt="Johnny Carreiro — Senior Software Engineer · Rust, TypeScript, distributed systems, applied AI · Founder of ConsoliDados — applied engineering, no platform lock-in" src="./assets/hero-light.svg" width="820">
+  </picture>
 </div>
-
-```console
-$ whoami
-johnny — I ship software to production, not pilots.
-
-$ stack --core
-rust · typescript/bun · postgres · distributed systems · self-hosted AI
-
-$ focus --on
-large-scale systems · performance · applied AI · legacy modernization
-```
 
 ---
 
