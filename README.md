@@ -71,10 +71,6 @@ Tools          Jira · Slack · GitHub Actions (CI/CD) · Obsidian
 
 Trabalho **exclusivamente como PJ B2B**, via [ConsoliDados](https://consolidados.digital) ou contrato PJ direto de prestação de serviços.
 
-- **Não aceito CLT.**
-- **Não aceito pejotização.** Se a vaga é descrita como "PJ" mas exige horário fixo, subordinação, presença obrigatória em dailies, exclusividade ou qualquer outro vínculo característico de CLT — isso é pejotização, e a ConsoliDados não atua nesse modelo.
-- **PJ legítimo:** entrega por escopo/output, autonomia sobre método e horário, sem exclusividade compulsória. Nesse formato, dá pra conversar.
-
 </details>
 
 ### Contact
